@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BB6dp5qXFC2tlYedOuH2DGf5fmqHk+0EtCRqqWgal4e9/xF8RWVwHnPKCpgJa4W1qsojzGHJu1Nd643jJFSERw==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\Repos\\microservices\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario.digiorgio\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\mario.digiorgio\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\mario.digiorgio\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\mario.digiorgio\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mario.digiorgio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
