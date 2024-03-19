@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/.dockerignore
+/src/.vs/**
+/src/.vs/eshop-microservices/v17/.suo
+/src/.vs/eshop-microservices/v17/DocumentLayout.json
